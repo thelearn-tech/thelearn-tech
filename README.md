@@ -26,3 +26,6 @@ I make script in shell , python ,html,js
 ![](https://img.shields.io/badge/Code-python-blue)
 ![](https://img.shields.io/badge/Code-html-red)
 ![](https://img.shields.io/badge/Code-javascript-yellow)
+
+[Instagram](https://instagram.com/thelearn_tech)
+[Website](https://thelearn-tech.github.io/website/)
