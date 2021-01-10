@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Pritam Behera. I have zero formal education in coding.
+I am still learning and publishing my script at the same time. I always try to create something which is useful and
+ I really like create automatic installation script, which I am very proud of.
+I make script in shell , python ,html,js
+.
+
+
+![alt text](https://img.shields.io/badge/Codes-Maintained-green)
+![alr](https://img.shields.io/badge/Code-shell-orange)
+![](https://img.shields.io/badge/Code-python-blue)
+![](https://img.shields.io/badge/Code-html-red)
+![](https://img.shields.io/badge/Code-javascript-yellow)
