@@ -22,10 +22,10 @@ I make script in shell , python ,html,js
 
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Code-shell-orange)
-![](https://img.shields.io/badge/Code-python-blue)
-![](https://img.shields.io/badge/Code-html-red)
-![](https://img.shields.io/badge/Code-javascript-yellow)
+![alr](https://img.shields.io/badge/Coding-shell-orange)
+![](https://img.shields.io/badge/Coding-python-blue)
+![](https://img.shields.io/badge/Coding-html-red)
+![](https://img.shields.io/badge/Coding-javascript-yellow)
 
 [Instagram](https://instagram.com/thelearn_tech)
 
