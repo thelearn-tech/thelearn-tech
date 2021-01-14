@@ -30,4 +30,4 @@ I make script in shell , python ,html,js
 [Instagram](https://instagram.com/thelearn_tech)
 
 
-[Website](https://thelearn-tech.github.io/website/)
+
