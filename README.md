@@ -28,6 +28,6 @@ I make script in shell , python ,html,css,js
 ![](https://img.shields.io/badge/Coding-javascript-yellow)
 
 [Instagram](https://instagram.com/thelearn_tech)
-
+[Discord](https://discord.gg/sMXS9g3N2J)
 
 
