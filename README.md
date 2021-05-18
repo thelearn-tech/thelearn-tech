@@ -28,7 +28,7 @@ I make script in shell,python,html,css,js.
 
 [Instagram](https://instagram.com/thelearn_tech)
 
-[Discord](https://discord.gg/sMXS9g3N2J)
+
 
 [Website](https://thelearn-tech.github.io/website)
 
