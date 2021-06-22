@@ -21,7 +21,7 @@ I make script in shell,python,html,css,js.
 
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Coding-shell-orange)
+![alr](https://img.shields.io/badge/Cod_in-shell-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
 ![](https://img.shields.io/badge/Cod_in-html-red)
 ![](https://img.shields.io/badge/Cod_in-javascript-yellow)
