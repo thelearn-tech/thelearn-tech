@@ -27,7 +27,10 @@ I make script in shell,python,html,css.
 ![](https://img.shields.io/badge/Cod_in-Css-yellow)
 [](https://img.shields.io/badge/Cod_in-javascript-yellow)
 
-[Instagram](https://instagram.com/thelearn_tech)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://instagram.com/thelearn_tech)
 
 
 
