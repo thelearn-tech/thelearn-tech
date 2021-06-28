@@ -23,17 +23,17 @@ I make script in shell,python,html,css.
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
 ![alr](https://img.shields.io/badge/Cod_in-Shell/Bash-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
-![](https://img.shields.io/badge/Cod_in-HTML-yellow)
-![](https://img.shields.io/badge/Cod_in-Css-yellow)
-[](https://img.shields.io/badge/Cod_in-javascript-yellow)
+![](https://img.shields.io/badge/Code_in-HTML-yellow)
+![](https://img.shields.io/badge/Code_in-Css-yellow)
+[](https://img.shields.io/badge/Code_in-javascript-yellow)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img align="left" alt="thelearn-tech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thelearn_tech)
+[<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
 
-[<img align="left" alt="thelearn-tech | Instagram" width="22px" src="https://avatars.githubusercontent.com/u/69230350?v=4" />](https://thelearn-tech.github.io/website)
+[<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://avatars.githubusercontent.com/u/69230350?v=4" />](https://thelearn-tech.github.io/website)
 
 
 
