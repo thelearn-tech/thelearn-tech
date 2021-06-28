@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Pritam Behera. I have zero formal education in coding/programming.
 I am still learning and publishing my code at the same time. I always try to create something which is useful.
-I make script in shell,python,html,css,js.
+I make script in shell,python,html,css.
 
 
 
