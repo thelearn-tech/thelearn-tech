@@ -33,7 +33,7 @@ I make script in shell,python,html,css.
 
 [<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
 
-[<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://avatars.githubusercontent.com/u/69230350?v=4" />](https://thelearn-tech.github.io/website)
+[<img align="left" alt="thelearn-tech | Instagram" width="44px" src="https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210629_003003.png" />](https://thelearn-tech.github.io/website)
 
 
 
