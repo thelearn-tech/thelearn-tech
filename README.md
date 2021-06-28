@@ -21,10 +21,10 @@ I make script in shell,python,html,css.
 
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Cod_in-shell-orange)
+![alr](https://img.shields.io/badge/Cod_in-Shell/Bash-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
-![](https://img.shields.io/badge/Cod_in-html-yellow)
-![](https://img.shields.io/badge/Cod_in-html-yellow)
+![](https://img.shields.io/badge/Cod_in-HTML-yellow)
+![](https://img.shields.io/badge/Cod_in-Css-yellow)
 [](https://img.shields.io/badge/Cod_in-javascript-yellow)
 
 [Instagram](https://instagram.com/thelearn_tech)
