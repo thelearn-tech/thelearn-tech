@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Everything at once.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -30,9 +30,10 @@ I make script in shell,python,html,css.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://instagram.com/thelearn_tech)
+
+[<img align="left" alt="thelearn-tech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thelearn_tech)
+
+[<img align="left" alt="thelearn-tech | Instagram" width="22px" src="https://avatars.githubusercontent.com/u/69230350?v=4" />](https://thelearn-tech.github.io/website)
 
 
-
-[Website](https://thelearn-tech.github.io/website)
 
