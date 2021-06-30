@@ -28,7 +28,7 @@ I make script in shell,python,html,css.
 [](https://img.shields.io/badge/Code_in-javascript-yellow)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
