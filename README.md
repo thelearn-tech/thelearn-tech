@@ -23,9 +23,7 @@ I make script in shell,python,html,css.
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
 ![alr](https://img.shields.io/badge/Cod_in-Shell/Bash-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
-![](https://img.shields.io/badge/Code_in-HTML-yellow)
-![](https://img.shields.io/badge/Code_in-Css-yellow)
-[](https://img.shields.io/badge/Code_in-javascript-yellow)
+
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
