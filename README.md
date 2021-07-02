@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Pritam Behera and I always to create something useful. Someting that helps people. My most of the code are in `Shell/Bash` and some in `Python|. I am still learning python as I said before.
- I make programs for `Linux` and `Termux| ONLY. 
+My name is Pritam Behera and I always to create something useful. Someting that helps people. 
+My most of the code are in `Shell/Bash` and some in `Python`. 
+I am still learning python as I said before.
+I make programs for `Linux` and `Termux| ONLY. 
+
 This year goal to improve `Friday Assistant`.
 
 
-🔭 I’m currently working on making `Friday better`
+🔭 I’m currently working on making Friday better.
 
 🌱 I’m currently learning `Python`
 
@@ -32,9 +35,9 @@ This year goal to improve `Friday Assistant`.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img align="left" alt="thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
+[<img align="left" alt="©thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
 
-[<img align="left" alt="thelearn-tech | Instagram" width="44px" src="https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210629_003003.png" />](https://thelearn-tech.github.io/website)
+[<img align="left" alt="©thelearn-tech | Website" width="44px" src="https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210629_003003.png" />](https://thelearn-tech.github.io/website)
 
 
 
