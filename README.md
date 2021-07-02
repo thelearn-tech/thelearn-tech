@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning Everything at once.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Pritam Behera. I have zero formal education in coding/programming.
-I am still learning and publishing my code at the same time. I always try to create something which is useful.
-I make script in shell,python,html,css.
+My name is Pritam Behera and I always to create something useful. Someting that helps people. My most of the code are in `Shell/Bash` and some in `Python|. I am still learning python as I said before.
+ I make programs for `Linux` and `Termux| ONLY. 
+This year goal to improve `Friday Assistant`.
 
 
+🔭 I’m currently working on making `Friday better`
+
+🌱 I’m currently learning `Python`
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
 ![alr](https://img.shields.io/badge/Cod_in-Shell/Bash-orange)
