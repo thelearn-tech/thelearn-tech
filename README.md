@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Pritam Behera and I always to create something useful. Someting that helps people. 
 My most of the code are in `Shell/Bash` and some in `Python`. 
-I am still learning python as I said before.
-I make programs for `Linux` and `Termux| ONLY. 
+I am still learning python and mastering bash.
+I make programs for `Linux` and `Termux` ONLY. 
 
 This year goal to improve `Friday Assistant`.
 
