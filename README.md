@@ -27,7 +27,7 @@ This year goal to improve `Friday Assistant`.
 🌱 I’m currently learning `Python`
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Cod_in-Shell/Bash-orange)
+![alr](https://img.shields.io/badge/Code_in-Shell/Bash-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
 
 
