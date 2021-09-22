@@ -30,7 +30,7 @@ This year goal to improve `Friday Assistant`.
 ![alr](https://img.shields.io/badge/Code_in-Shell/Bash-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
 
-
+Contact: **pb.thelearn.tech@gmail.com**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
