@@ -35,7 +35,7 @@ Contact: **pb.thelearn.tech@gmail.com**
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img align="left" alt="©thelearn-tech | Instagram" width="30px" src="" />](https://instagram.com/thelearn_tech)
+[<img align="left" alt="©thelearn-tech | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/889/889147.png" />](https://twitter.com/thelearn_tech)
 
 [<img align="left" alt="©thelearn-tech | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://instagram.com/thelearn_tech)
 
