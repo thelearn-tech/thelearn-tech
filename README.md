@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Pritam Behera and I always try to create something useful. 
+My name is Pritam Behera and I am a novice who always try's to create something useful. 
 My most of the code are in `Shell/Bash` , `HTML CSS JS` and some in `Python`. 
 I am still learning python and mastering bash.
 I make programs for `Linux` and `Termux` ONLY. 
