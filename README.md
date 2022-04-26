@@ -34,7 +34,7 @@ Contact: **pb.thelearn.tech@gmail.com**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelearn-tech)](https://github.com/anuraghazra/github-readme-stats)
 
-*XMR* > **48zp1PQqexwDwXfEHvQUgSWByE4iBm5hgeEqJuSRSkpNBmMAkF1GfRFSCyYLS5BrYVCHcpxgWZqH8MSoCsUQZDs36jobjeH**
+
 
 
 [<img align="left" alt="©thelearn-tech | Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/889/889147.png" />](https://twitter.com/thelearn_tech)
