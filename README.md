@@ -24,7 +24,7 @@ This year goal to improve `Friday Assistant`.
 
 🔭 I’m currently working on making Friday better.
 
-🌱 I’m currently learning `Python`
+🌱 I’m currently learning `Java`
 
 ![alt text](https://img.shields.io/badge/Codes-Maintained-green)
 ![alr](https://img.shields.io/badge/Code_in-Shell/Bash-orange)
