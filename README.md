@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Pritam Behera and I am a novice who always try's to create something useful. 
+Hello, my name is **Pritam Behera** and I don't know what I am doing. 
 My most of the code are in `Shell/Bash` , `HTML CSS JS` and some in `Python`. 
-I am still learning python and mastering bash.
-I make programs for `Linux` and `Termux` ONLY. 
+I make programs for `Linux` and `Termux` and `HTML Stuff` ONLY. 
 
 This year goal to improve `Friday Assistant`.
 
 
 🔭 I’m currently working on making Friday better.
 
-🌱 I’m currently learning `Java`
+🌱 I’m currently learning Everything
 
-![alt text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Code_in-Shell/Bash-orange)
+![alt] text](https://img.shields.io/badge/Codes-Maintained-green)
+![alr](https://img.shields.io/badge/Code_in-Shell/Bash-lightgreen)
+![alr](https://img.shields.io/badge/Code_in/HTML-CSS-JS-orange)
 ![](https://img.shields.io/badge/Code_in-python-blue)
 
 Contact: **pb.thelearn.tech@gmail.com**
