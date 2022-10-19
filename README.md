@@ -31,7 +31,7 @@ This year goal to improve `Friday Assistant`.
 ![](https://img.shields.io/badge/Code_in-python-blue)
 <br>
   <br>
-[![](https://komarev.com/ghpvc/?username=thelearn-tech&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://komarev.com/ghpvc/?username=thelearn-tech&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter) from Oct 19 2022
 
 Contact: **pb.thelearn.tech@gmail.com**
 
