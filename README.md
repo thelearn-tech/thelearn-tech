@@ -25,10 +25,13 @@ This year goal to improve `Friday Assistant`.
 
 🌱 I’m currently learning Everything
 
-![alt] text](https://img.shields.io/badge/Codes-Maintained-green)
-![alr](https://img.shields.io/badge/Code_in-Shell/Bash-lightgreen)
-![alr](https://img.shields.io/badge/Code_in/HTML-CSS-JS-orange)
+![](https://img.shields.io/badge/Codes-Maintained-green)
+![](https://img.shields.io/badge/Code_in-Shell/Bash-lightgreen)
+![](https://img.shields.io/badge/Code_in-HTML_CSS_JS-pink)
 ![](https://img.shields.io/badge/Code_in-python-blue)
+<br>
+  <br>
+[![](https://komarev.com/ghpvc/?username=thelearn-tech&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 Contact: **pb.thelearn.tech@gmail.com**
 
