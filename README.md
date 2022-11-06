@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 Hello, my name is **Pritam Behera** and I don't know what I am doing. 
 My most of the code are in `Shell/Bash` , `HTML CSS JS` and some in `Python`. 
-I make programs for `Linux` and `Termux` and `HTML Stuff` ONLY. 
+I make programs for `Linux` and `Termux` ONLY. 
+
+- Self learner.
+- Linux Enthuziast.
 
 This year goal to improve `Friday Assistant`.
 
