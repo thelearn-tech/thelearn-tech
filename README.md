@@ -52,8 +52,6 @@ social media
 
 [<img align="left" alt="©thelearn-tech | Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/889/889147.png" />](https://twitter.com/thelearn_tech)
 
-[<img align="left" alt="©thelearn-tech | Instagram" width="40px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?t=st=1647649237~exp=1647649837~hmac=dc341dc4be07fde87eb8a4c1e79ece3e45283fe698efbbb05349ec0db2e1208a&w=740" />](https://instagram.com/thelearn_tech)
-
 [<img align="left" alt="©thelearn-tech | Website" width="44px" src="https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210629_003003.png" />](https://thelearn-tech.github.io/website)
 
 
