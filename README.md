@@ -14,19 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is **Pritam Behera** and I don't know what I am doing. 
-My most of the code are in `Shell/Bash` , `HTML CSS JS` and some in `Python`. 
-I make programs for `Linux` and `Termux` ONLY. 
+Hello, my name is **`Pritam Behera`**. 
+<br>
+<br>
+<br>
+I am a passionate beginner-level programmer with a strong foundation in HTML, CSS, JavaScript, and Java. 
+<br>
+<br>
+I love crafting visually appealing and interactive web experiences using HTML and CSS.
+<br>
+<br>
+JavaScript is my go-to language for most of my requirements.
+<br>
+<br>
+I have dabbled in Java, exploring its object-oriented programming concepts. 
+<br>
+<br>
+I am also familiar with popular JavaScript frameworks like Express and React.
+<br>
+<br>
+*I am enthusiastic about expanding my programming skills and constantly learning new technologies to enhance my abilities as a developer*.
+
+
+- `Shell/Bash` 
+-  `HTML CSS JS`
+-  `Java`
+-  `Python`(very little). 
+
+
+I make programs for **`Linux`** and **`Termux`** ONLY. 
 
 - Self learner.
 - Linux Enthuziast.
 
-This year goal to improve `Friday Assistant`.
 
 
-🔭 I’m currently working on making Friday better.
 
-🌱 I’m currently learning Everything
+
 
 ![](https://img.shields.io/badge/Codes-Maintained-green)
 ![](https://img.shields.io/badge/Code_in-Shell/Bash-lightgreen)
