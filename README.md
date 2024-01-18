@@ -18,7 +18,7 @@ Hello, my name is **`Pritam Behera`**.
 <br>
 <br>
 <br>
-I am a passionate beginner-level programmer with a strong foundation in HTML, CSS, JavaScript, and Java. 
+<!-- I am a passionate beginner-level programmer with a strong foundation in HTML, CSS, JavaScript, and Java. 
 <br>
 <br>
 I love crafting visually appealing and interactive web experiences using HTML and CSS.
@@ -34,15 +34,12 @@ I am also familiar with popular JavaScript frameworks like Express and React.
 <br>
 <br>
 *I am enthusiastic about expanding my programming skills and constantly learning new technologies to enhance my abilities as a developer*.
-
+-->
 
 - `Shell/Bash` 
 -  `HTML CSS JS`
--  `Java`
+-  `Java` (very little).
 -  `Python`(very little). 
-
-
-I make programs for **`Linux`** and **`Termux`** ONLY. 
 
 - Self learner.
 - Linux Enthuziast.
