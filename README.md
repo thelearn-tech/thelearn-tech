@@ -18,24 +18,6 @@ Hello, my name is **`Pritam Behera`**.
 <br>
 <br>
 <br>
-<!-- I am a passionate beginner-level programmer with a strong foundation in HTML, CSS, JavaScript, and Java. 
-<br>
-<br>
-I love crafting visually appealing and interactive web experiences using HTML and CSS.
-<br>
-<br>
-JavaScript is my go-to language for most of my requirements.
-<br>
-<br>
-I have dabbled in Java, exploring its object-oriented programming concepts. 
-<br>
-<br>
-I am also familiar with popular JavaScript frameworks like Express and React.
-<br>
-<br>
-*I am enthusiastic about expanding my programming skills and constantly learning new technologies to enhance my abilities as a developer*.
--->
-
 - `Shell/Bash` 
 -  `HTML CSS JS`
 -  `Java` (very little).
@@ -70,10 +52,9 @@ Contact: **pb.thelearn.tech@gmail.com**
 <!--
 social media
 -->
-
+<!--
 [<img align="left" alt="©thelearn-tech | Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/889/889147.png" />](https://twitter.com/thelearn_tech)
 
 [<img align="left" alt="©thelearn-tech | Website" width="44px" src="https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210629_003003.png" />](https://thelearn-tech.github.io/website)
-
-
+-->
 
