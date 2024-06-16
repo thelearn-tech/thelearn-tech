@@ -20,8 +20,8 @@ Hello, my name is **`Pritam Behera`**.
 <br>
 - `Shell/Bash` 
 -  `HTML CSS JS`
--  `Java` (very little).
--  `Python`(very little). 
+<!-- -  `Java` (very little).
+-  `Python`(very little). -->
 
 - Self learner.
 - Linux Enthuziast.
